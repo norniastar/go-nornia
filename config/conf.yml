@@ -1,0 +1,19 @@
+
+mysql:
+  user: root
+  password: root2021
+  port: "3306"
+  database: demo
+
+redis:
+  name: root
+  password: ""    # 无密码
+  port: "6379"
+  database: 0
+
+log:
+  server_name: nornia_server
+  file_name: server
+  level: -1
+
+
